@@ -18,7 +18,7 @@ A RESTful API developed using FastAPI and MS SQL Server for managing book record
 * Delete books
 
 ## Installation
-
+'''
 pip install -r requirements.txt
 
 uvicorn app.main:app --reload
